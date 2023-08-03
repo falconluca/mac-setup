@@ -1,0 +1,11 @@
+iterm2
+alfred
+rectangle
+alt-tab
+firefox-developer-edition
+app-cleaner
+visual-studio-code
+sublime-text
+insomnia
+postman
+stats
